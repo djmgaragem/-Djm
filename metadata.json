@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Oficina",
+  "description": "Sistema completo para gestão de oficina mecânica, incluindo clientes, pátio, estoque, financeiro, ordens de serviço e orçamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
